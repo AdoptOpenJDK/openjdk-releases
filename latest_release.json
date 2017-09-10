@@ -90,7 +90,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 75611453,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2017-07-27T22:01:54Z",
       "updated_at": "2017-07-27T22:02:00Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_aarch64_Linux_jdk8u144-b01.tar.gz"
@@ -154,7 +154,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 75728813,
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2017-07-27T22:02:07Z",
       "updated_at": "2017-07-27T22:02:13Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_ppc64le_Linux_jdk8u144-b01.tar.gz"
@@ -218,7 +218,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 79989518,
-      "download_count": 41,
+      "download_count": 44,
       "created_at": "2017-07-27T22:02:00Z",
       "updated_at": "2017-07-27T22:02:07Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_ppc64_AIX_jdk8u144-b01.tar.gz"
@@ -282,7 +282,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 74368038,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2017-07-27T22:02:14Z",
       "updated_at": "2017-07-27T22:02:21Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_s390x_Linux_jdk8u144-b01.tar.gz"
@@ -346,7 +346,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 78820148,
-      "download_count": 65,
+      "download_count": 90,
       "created_at": "2017-07-27T22:02:22Z",
       "updated_at": "2017-07-27T22:02:29Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Linux_jdk8u144-b01.tar.gz"
@@ -378,7 +378,7 @@
       "content_type": "application/x-diskcopy",
       "state": "uploaded",
       "size": 80724635,
-      "download_count": 6,
+      "download_count": 15,
       "created_at": "2017-09-02T20:04:45Z",
       "updated_at": "2017-09-02T20:07:06Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Mac_jdk8u144-b01.dmg"
@@ -410,7 +410,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 103,
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2017-07-27T22:02:30Z",
       "updated_at": "2017-07-27T22:02:30Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Mac_jdk8u144-b01.sha256.txt"
@@ -442,10 +442,42 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 76419440,
-      "download_count": 69,
+      "download_count": 81,
       "created_at": "2017-07-27T22:02:30Z",
       "updated_at": "2017-07-27T22:02:35Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Mac_jdk8u144-b01.tar.gz"
+    },
+    {
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4751187",
+      "id": 4751187,
+      "name": "OpenJDK8_x64_Win_jdk8u144-b01.exe",
+      "label": null,
+      "uploader": {
+        "login": "gdams",
+        "id": 20224954,
+        "avatar_url": "https://avatars2.githubusercontent.com/u/20224954?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/gdams",
+        "html_url": "https://github.com/gdams",
+        "followers_url": "https://api.github.com/users/gdams/followers",
+        "following_url": "https://api.github.com/users/gdams/following{/other_user}",
+        "gists_url": "https://api.github.com/users/gdams/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/gdams/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/gdams/subscriptions",
+        "organizations_url": "https://api.github.com/users/gdams/orgs",
+        "repos_url": "https://api.github.com/users/gdams/repos",
+        "events_url": "https://api.github.com/users/gdams/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/gdams/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "content_type": "application/octet-stream",
+      "state": "uploaded",
+      "size": 87097224,
+      "download_count": 4,
+      "created_at": "2017-09-05T18:48:45Z",
+      "updated_at": "2017-09-05T18:50:49Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Win_jdk8u144-b01.exe"
     },
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-releases/releases/assets/4437796",
@@ -474,7 +506,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 100,
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2017-07-27T22:02:36Z",
       "updated_at": "2017-07-27T22:02:36Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Win_jdk8u144-b01.sha256.txt"
@@ -506,7 +538,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 76552199,
-      "download_count": 45,
+      "download_count": 48,
       "created_at": "2017-07-27T22:02:37Z",
       "updated_at": "2017-07-27T22:02:42Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-releases/releases/download/jdk8u144-b01/OpenJDK8_x64_Win_jdk8u144-b01.zip"
